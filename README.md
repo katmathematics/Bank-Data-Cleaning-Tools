@@ -1,2 +1,2 @@
 # Bank-Data-Cleaning-Tools
-Code used to access and clean bank data collected by the FFIEC
+The website for documentation can be accessed at: https://katmathematics.github.io/Bank-Data-Cleaning-Tools/
